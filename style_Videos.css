@@ -56,3 +56,10 @@
 body{
     background-color:lightslategray;
 }
+.navbar{
+    margin-bottom: 20px;
+}
+div h2,h1{
+    text-align: center;
+    margin-bottom: 15px;
+}

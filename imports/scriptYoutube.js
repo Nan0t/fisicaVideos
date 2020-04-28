@@ -1,4 +1,4 @@
-<script>
+
 
     /* Light YouTube Embeds by @labnol */
     /* Web: http://labnol.org/?p=27941 */
@@ -31,4 +31,3 @@
         this.parentNode.replaceChild(iframe, this);
     }
 
-</script>
